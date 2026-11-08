@@ -1,12 +1,12 @@
 # Hi, I'm Hadil Ziane 👋
 
-### Software Engineer · Data Analyst · Future Data Scientist
+### Software Engineer · Data Analyst · Data Scientist
 
 I build **web applications** and I turn **raw data into clear decisions** — two sides of the same job: understanding a problem, then shipping something people can use.
 
 - 💼 **Software Engineer at Digital Smile** (branding agency, Algiers) since 2025 — I built its website and management platform.
 - 📊 **Data Analyst** — SQL, Python and Power BI projects with real numbers and honest limits.
-- 🎓 **PhD student in Data Science, AI & Statistics** (Universiti Utara Malaysia) — heading toward **Data Science & Machine Learning**.
+- 🤖 **Data Scientist** — machine learning and forecasting; PhD student in Data Science, AI & Statistics (Universiti Utara Malaysia).
 - 📐 State Engineer in Statistics and MSc in Statistics & Economic Foresight (ENSSEA, 18/20).
 - 🌍 Based in Malaysia (UTC+8) · open to remote work · English, French, Arabic.
 
