@@ -41,7 +41,7 @@ I build **web applications** and I turn **raw data into clear decisions** — tw
 | Project | What it is | Built with |
 |---|---|---|
 | [**Digital Smile**](https://github.com/Hadil16/digital-smile) | Full-stack agency platform: public website + client, employee and admin workspaces — orders, assignments, invoices with VAT, notifications, dashboards | PHP (custom MVC), MySQL, JS |
-| [**Software engineer portfolio**](https://github.com/Hadil16/software-engineer-portfolio) | Portfolio with a hand-built Three.js 3D island + 8 demo business websites | HTML, CSS, JS, Three.js |
+| [**Software engineer portfolio**](https://github.com/Hadil16/software-engineer-portfolio) · [live](https://hadil-ziane-dev.netlify.app) | Portfolio with a hand-built Three.js 3D island + 8 demo business websites | HTML, CSS, JS, Three.js |
 | [**Data analyst portfolio**](https://github.com/Hadil16/data-analyst-portfolio) · [live](https://hadil-ziane.netlify.app) | Interactive portfolio: 3D data globe, KPI sparklines, case-study drawer | HTML, CSS, JS, Three.js |
 
 ## 📊 Data projects
@@ -69,4 +69,5 @@ Each repository has a README with the question, the method, the result and the l
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadil-ziane-6477ba38a)
 [![Email](https://img.shields.io/badge/Email-hadil26malay%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hadil26malay@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-hadil--ziane.netlify.app-00C7B7?style=flat&logo=netlify&logoColor=white)](https://hadil-ziane.netlify.app)
+[![Data portfolio](https://img.shields.io/badge/Data%20portfolio-hadil--ziane.netlify.app-00C7B7?style=flat&logo=netlify&logoColor=white)](https://hadil-ziane.netlify.app)
+[![Software portfolio](https://img.shields.io/badge/Software%20portfolio-hadil--ziane--dev.netlify.app-3D6FE3?style=flat&logo=netlify&logoColor=white)](https://hadil-ziane-dev.netlify.app)
